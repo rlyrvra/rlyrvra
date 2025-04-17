@@ -21,11 +21,12 @@ I used to be indifferent, but then I learned coding and programming. Now I'm eve
 [![NodeJS](https://img.shields.io/badge/Node.js-★☆☆☆☆-6DA55F?logo=node.js&logoColor=white)](#)
 [![Python](https://img.shields.io/badge/Python-★☆☆☆☆-3776AB?logo=python&logoColor=fff)](#)
 
-## 💻 Programming Languages
+## 💻 Programming Language
 [![Java](https://img.shields.io/badge/Java-★★★☆☆-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
 [![PHP](https://img.shields.io/badge/php-★★★☆☆-%23777BB4.svg?&logo=php&logoColor=white)](#)
 [![JSON](https://img.shields.io/badge/JSON-★★★★☆?logo=json&logoColor=fff)](#)
 [![C](https://img.shields.io/badge/C-★★★★☆-00599C?logo=c&logoColor=white)](#)
+[![XML](https://img.shields.io/badge/XML-★★☆☆☆--767C52?logo=xml&logoColor=fff)](#)
 
 ## 🌐 Web Development
 [![HTML](https://img.shields.io/badge/HTML-★★★★☆-%23E34F26.svg?logo=html5&logoColor=white)](#)
@@ -33,15 +34,17 @@ I used to be indifferent, but then I learned coding and programming. Now I'm eve
 [![JavaScript](https://img.shields.io/badge/JavaScript-★★★★☆-F7DF1E?logo=javascript&logoColor=000)](#)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-★★★☆☆-7952B3?logo=bootstrap&logoColor=fff)](#)
 
-## 🖼️ Frameworks
-[![.NET](https://img.shields.io/badge/.NET-★★☆☆☆-512BD4?logo=dotnet&logoColor=fff)](#)
 
-## ⛈️ Databases worked
+## 🖼️ Framework
+[![.NET](https://img.shields.io/badge/.NET-★★☆☆☆-512BD4?logo=dotnet&logoColor=fff)](#)
+[![jQuery](https://img.shields.io/badge/jQuery-★★★☆☆-0769AD?logo=jquery&logoColor=fff)](#)
+
+## ⛈️ Database Worked
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
 [![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white)](#)
 [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](#)
 
-## 📚 Familiarity with Concepts:
+## 📚 Familiarity with Concepts
 [![Procedural Paradigm](https://img.shields.io/badge/Imperative-Procedural_Programming-★★★★☆-%2307AE2CF)](#)
 [![Object Oriented Paradigm](https://img.shields.io/badge/Imperative-Object_Oriented_Programming-★★★☆☆-%230F5EEDD)](#)
 [![SDLC](https://img.shields.io/badge/SDLC-★★★☆☆-%23077A7D)](#)
@@ -53,6 +56,9 @@ I used to be indifferent, but then I learned coding and programming. Now I'm eve
 [![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visual-studio&logoColor=white)](#)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](#)  
 [![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?logo=googledrive&logoColor=fff)](#)
+
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](#)
+[![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&logo=Canva&logoColor=white)](#)
 
 **AI for Development**
 [![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)](#)
