@@ -71,9 +71,6 @@ I used to be indifferent, but then I learned coding and programming. Now I'm eve
 [![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?logo=apache-netbeans-ide&logoColor=white)](#)
 [![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?&logo=notepad%2b%2b&logoColor=black)](#)
 
-## � Fun Fact  
-I'm the type of friend who will listen to any kinds of music.
-
 ## 📊 GitHub Stats  
 ![zeafy's GitHub stats](https://github-readme-stats.vercel.app/api?username=rlyrvra&show_icons=true&hide_border=true&theme=dracula)  
 
