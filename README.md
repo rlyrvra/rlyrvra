@@ -45,8 +45,8 @@ I used to be indifferent, but then I learned coding and programming. Now I'm eve
 [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](#)
 
 ## 📚 Familiarity with Concepts
-[![Procedural Paradigm](https://img.shields.io/badge/Imperative-Procedural_Programming-★★★★☆-%2307AE2CF)](#)
-[![Object Oriented Paradigm](https://img.shields.io/badge/Imperative-Object_Oriented_Programming-★★★☆☆-%230F5EEDD)](#)
+[![Procedural Paradigm](https://img.shields.io/badge/Procedural_Programming-★★★★☆-%2307AE2CF)](#)
+[![Object Oriented Paradigm](https://img.shields.io/badge/Object_Oriented_Programming-★★★☆☆-%230F5EEDD)](#)
 [![SDLC](https://img.shields.io/badge/SDLC-★★★☆☆-%23077A7D)](#)
 [![MLDLC](https://img.shields.io/badge/MLDLC-★★★☆☆-%23BF9264)](#)
 
