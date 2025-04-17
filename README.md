@@ -16,16 +16,16 @@
 
 I used to be indifferent, but then I learned coding and programming. Now I'm even more apathetic except for videogames, coding and programming.
 
-## 🌱 I'm currently learning:
-[![React](https://img.shields.io/badge/React-★☆☆☆☆-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
-[![NodeJS](https://img.shields.io/badge/Node.js-★☆☆☆☆-6DA55F?logo=node.js&logoColor=white)](#)
-[![Python](https://img.shields.io/badge/Python-★☆☆☆☆-3776AB?logo=python&logoColor=fff)](#)
+## 🌱 I'm currently learning
+[![React](https://img.shields.io/badge/React-☆☆☆☆☆-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
+[![NodeJS](https://img.shields.io/badge/Node.js-☆☆☆☆☆-6DA55F?logo=node.js&logoColor=white)](#)
+[![Python](https://img.shields.io/badge/Python-☆☆☆☆☆-3776AB?logo=python&logoColor=fff)](#)
 
 ## 💻 Programming Language
 [![Java](https://img.shields.io/badge/Java-★★★☆☆-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
 [![PHP](https://img.shields.io/badge/php-★★★☆☆-%23777BB4.svg?&logo=php&logoColor=white)](#)
 [![JSON](https://img.shields.io/badge/JSON-★★★★☆?logo=json&logoColor=fff)](#)
-[![C](https://img.shields.io/badge/C-★★★★☆-00599C?logo=c&logoColor=white)](#)
+[![C](https://img.shields.io/badge/C-★★★☆☆-00599C?logo=c&logoColor=white)](#)
 [![XML](https://img.shields.io/badge/XML-★★☆☆☆--767C52?logo=xml&logoColor=fff)](#)
 
 ## 🌐 Web Development
@@ -48,7 +48,7 @@ I used to be indifferent, but then I learned coding and programming. Now I'm eve
 [![Procedural Paradigm](https://img.shields.io/badge/Procedural_Programming-★★★★☆-%2307AE2CF)](#)
 [![Object Oriented Paradigm](https://img.shields.io/badge/Object_Oriented_Programming-★★★☆☆-%230F5EEDD)](#)
 [![SDLC](https://img.shields.io/badge/SDLC-★★★☆☆-%23077A7D)](#)
-[![MLDLC](https://img.shields.io/badge/MLDLC-★★★☆☆-%23BF9264)](#)
+[![MLDLC](https://img.shields.io/badge/MLDLC-★★☆☆☆-%23BF9264)](#)
 
 ## 🔧 Technologies & Tools
 **Actively Using**  
