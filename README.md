@@ -1,16 +1,16 @@
 <picture>
   <source 
     media="(prefers-color-scheme: dark)" 
-    srcset="https://raw.githubusercontent.com/rlyrvra/rlyrvra/main/assets/reily-rivera-header-dark.png">
+    srcset="https://raw.githubusercontent.com/rlyrvra/rlyrvra/main/assets/reily-rivera-header-dark.gif">
   <source 
     media="(prefers-color-scheme: light)" 
-    srcset="https://raw.githubusercontent.com/rlyrvra/rlyrvra/main/assets/reily-rivera-header-light.png">
+    srcset="https://raw.githubusercontent.com/rlyrvra/rlyrvra/main/assets/reily-rivera-header-light.gif">
   <img 
     alt="Reily Rivera Header" 
-    src="https://raw.githubusercontent.com/rlyrvra/rlyrvra/main/assets/reily-rivera-header-light.png">
+    src="https://raw.githubusercontent.com/rlyrvra/rlyrvra/main/assets/reily-rivera-header-light.gif">
 </picture>
 
-Welcome to my humble profile!
+*Welcome to my humble profile!*
 
 # About Me
 
@@ -21,17 +21,11 @@ I used to be indifferent, but then I learned coding and programming. Now I'm eve
 [![NodeJS](https://img.shields.io/badge/Node.js-★☆☆☆☆-6DA55F?logo=node.js&logoColor=white)](#)
 [![Python](https://img.shields.io/badge/Python-★☆☆☆☆-3776AB?logo=python&logoColor=fff)](#)
 
-
-###### Skills & Proficiency ########
-
 ## 💻 Programming Languages
 [![Java](https://img.shields.io/badge/Java-★★★☆☆-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
 [![PHP](https://img.shields.io/badge/php-★★★☆☆-%23777BB4.svg?&logo=php&logoColor=white)](#)
-[![JSON](https://img.shields.io/badge/JSON-000-★★★★☆?logo=json&logoColor=fff)](#)
+[![JSON](https://img.shields.io/badge/JSON-★★★★☆?logo=json&logoColor=fff)](#)
 [![C](https://img.shields.io/badge/C-★★★★☆-00599C?logo=c&logoColor=white)](#)
-
-## 🖼️ Frameworks
-[![.NET](https://img.shields.io/badge/.NET-★★☆☆☆-512BD4?logo=dotnet&logoColor=fff)](#)
 
 ## 🌐 Web Development
 [![HTML](https://img.shields.io/badge/HTML-★★★★☆-%23E34F26.svg?logo=html5&logoColor=white)](#)
@@ -39,9 +33,19 @@ I used to be indifferent, but then I learned coding and programming. Now I'm eve
 [![JavaScript](https://img.shields.io/badge/JavaScript-★★★★☆-F7DF1E?logo=javascript&logoColor=000)](#)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-★★★☆☆-7952B3?logo=bootstrap&logoColor=fff)](#)
 
-## Familiar with Concepts:
+## 🖼️ Frameworks
+[![.NET](https://img.shields.io/badge/.NET-★★☆☆☆-512BD4?logo=dotnet&logoColor=fff)](#)
 
-###### /Skills & Proficiency ########
+## ⛈️ Databases worked
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
+[![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white)](#)
+[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](#)
+
+## 📚 Familiarity with Concepts:
+[![Procedural Paradigm](https://img.shields.io/badge/Imperative-Procedural_Programming-★★★★☆-%2307AE2CF)](#)
+[![Object Oriented Paradigm](https://img.shields.io/badge/Imperative-Object_Oriented_Programming-★★★☆☆-%230F5EEDD)](#)
+[![SDLC](https://img.shields.io/badge/SDLC-★★★☆☆-%23077A7D)](#)
+[![MLDLC](https://img.shields.io/badge/MLDLC-★★★☆☆-%23BF9264)](#)
 
 ## 🔧 Technologies & Tools
 **Actively Using**  
