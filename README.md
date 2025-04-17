@@ -53,12 +53,13 @@ I used to be indifferent, but then I learned coding and programming. Now I'm eve
 ## 🔧 Technologies & Tools
 **Actively Using**  
 [![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)](#)
-[![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visual-studio&logoColor=white)](#)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](#)  
 [![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?logo=googledrive&logoColor=fff)](#)
 
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](#)
 [![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&logo=Canva&logoColor=white)](#)
+[![CapCut](https://img.shields.io/badge/capcut-blue.svg?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMDAiIGhlaWdodD0iMjAwIiB2aWV3Qm94PSIwIDAgNDggNDgiPgogIDxwYXRoIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIGQ9Ik00My41IDM1LjlMNC41MDUgMTYuMjQxVjE0Ljg2YTMuNzE3IDMuNzE3IDAgMCAxIDMuNzIyLTMuNzI4aDIxLjk5N2EzLjcxNyAzLjcxNyAwIDAgMSAzLjcyMyAzLjcyOHYxLjY5NSIvPgogIDxwYXRoIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIGQ9Im00My41IDExLjgzNWwtMzkgMTkuNjZsLjAwNSAxLjY0NmEzLjcxNyAzLjcxNyAwIDAgMCAzLjcyMyAzLjcyOGgyMS45OTZhMy43MTcgMy43MTcgMCAwIDAgMy43MjMtMy43Mjh2LTEuOTQ4Ii8+Cjwvc3ZnPg==)](#)
+
 
 **AI for Development**
 [![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)](#)
@@ -66,7 +67,8 @@ I used to be indifferent, but then I learned coding and programming. Now I'm eve
 [![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000?logo=githubcopilot&logoColor=fff)](#)
 [![Perplexity](https://img.shields.io/badge/Perplexity-1FB8CD?logo=perplexity&logoColor=fff)](#)
 
-**Used Before**  
+**Used Before**
+[![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visual-studio&logoColor=white)](#)
 [![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?logo=eclipse&logoColor=white)](#)
 [![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?logo=apache-netbeans-ide&logoColor=white)](#)
 [![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?&logo=notepad%2b%2b&logoColor=black)](#)
