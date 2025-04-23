@@ -47,6 +47,8 @@ I used to be indifferent, but then I learned coding and programming. Now I'm eve
 ## 📚 Familiarity with Concepts
 [![Procedural Paradigm](https://img.shields.io/badge/Procedural_Programming-★★★★☆-%2307AE2CF)](#)
 [![Object Oriented Paradigm](https://img.shields.io/badge/Object_Oriented_Programming-★★★☆☆-%230F5EEDD)](#)
+[![Model_View_Controller](https://img.shields.io/badge/MVC-★★☆☆☆-%23#5BC0BE)](#)
+[![Laytered_Architecture](https://img.shields.io/badge/Layered_Architecture-★★☆☆☆-%433A506B)](#)
 [![SDLC](https://img.shields.io/badge/SDLC-★★★☆☆-%23077A7D)](#)
 [![MLDLC](https://img.shields.io/badge/MLDLC-★★☆☆☆-%23BF9264)](#)
 
